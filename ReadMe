@@ -1,0 +1,16 @@
+About YouTube Playlist Downloader
+
+YouTube Playlist Downloader is a simple Python script with a Tkinter GUI that allows users to download YouTube playlists easily. It uses the youtube-dl library to interact with YouTube's API and respects YouTube's terms of service.
+
+Usage Instructions:
+1. Enter the YouTube playlist URL in the provided field.
+2. Click the "Select Save Folder" button to choose where to save the downloaded videos.
+3. Click the "Download Playlist" button to start the download process.
+
+Note: Ensure you have the youtube-dl library installed by running `pip install youtube-dl` before using the script.
+
+Disclaimer:
+This script is provided for educational and personal use only. Respect YouTube's terms of service, and ensure you have the right to download and use the content.
+
+Author:Chatgpt - Prompted by Kody Tron
+
